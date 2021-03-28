@@ -249,12 +249,12 @@ h2:hover {
       }
       .slider__container:before {
         content: "[";
-        left: 0px;
+        left: 60px;
       }
       .slider__container:after {
         content: "]";
         position: absolute;
-        right: 0px;
+        right: 60px;
       }
       .slider__container__list {
         margin-top: 0;
